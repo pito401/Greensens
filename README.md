@@ -9,7 +9,8 @@ _Das Modul liest die Daten der Greensens Pflanzen Sensoren aus.
 3. [Installation & Konfiguration](#3-installation--konfiguration)
 4. [Variablen](#4-variablen)
 5. [Funktionen](#5-funktionen)
-6. [FAQ](#6-faq)
+6. [GUID](#6-GUID)
+7. [FAQ](#7-faq)
 
 ## 1. Funktionsumfang
 Erfassen der Sensordaten mit Hilfe der API Schnittstelle von Greensens  
@@ -70,8 +71,12 @@ https://api.greensens.de/
 
 Die Funktion gibt alle Sensordaten als Array zurück. 
 
-## 6. FAQ
-### 6.1. Wie viele Variablen werden für das Modul benötigt?  
+##  6. GUID:
+GUID: `{238A5FC9-4A63-7740-5F2E-9ED202C77562}` 
+
+
+## 7. FAQ
+### 7.1. Wie viele Variablen werden für das Modul benötigt?  
 8 je Sensor
 
 
