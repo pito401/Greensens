@@ -1,0 +1,12 @@
+{
+    "id": "{E5A34932-B483-4D26-8883-75BE1742D55C}",
+    "name": "MyGreensens",
+    "type": 3,
+    "vendor": "PiTo",
+    "aliases": ["MyGreensens"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "GS",
+    "url": ""
+}

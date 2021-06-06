@@ -1,0 +1,27 @@
+{
+    "translations": {
+        "de": {
+            "very dry": "sehr trocken",
+            "dry": "trocken",
+            "water plant": "Pflanze gießen",
+            "enough water": "ausreichend Wasser",
+            ":Sensor ID": "Sensor ID",
+            ":Plant name": "trocken",
+            ":Sensor Status": "Zustand Sensor",
+            ":Temperature": ":Temperatur",
+
+            "Received data frm API without error.": "Daten von API fehlerfrei erhalten.",
+            "Sensor data:": "Sensor Daten.",
+            "Error": "Fehler",
+            "No sensor data received.": "Keine Sensor Daten erhalten.",
+            "received Token:": "Token erhalten.",
+            "No Token received": "kein Token erhalten.",
+            "Token has expired.": "Gültigkeit des Token ist abgelaufen.",
+            "is valid": "ist gültig."
+
+
+
+            
+        }
+    }
+}

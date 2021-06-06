@@ -1,0 +1,28 @@
+{
+    "elements": [{
+            "name": "ID_active",
+            "type": "CheckBox",
+            "caption": "active"
+        },
+        {
+            "name": "ID_Login",
+            "type": "ValidationTextBox",
+            "caption": "Login (email)"
+        },
+        {
+            "name": "ID_Passwort",
+            "type": "PasswordTextBox",
+            "caption": "Passwort"
+        },
+        {
+            "name": "ID_Sensors",
+            "type": "NumberSpinner",
+            "caption": "Anzahl Sensoren"
+        },
+        {
+            "name": "ID_Interval",
+            "type": "NumberSpinner",
+            "caption": "Update Intervalzeit"
+        }
+    ] 
+}
