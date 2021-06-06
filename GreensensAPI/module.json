@@ -1,1 +1,11 @@
-
+{
+	"id": "{238A5FC9-4A63-7740-5F2E-9ED202C77562}",
+	"name": "Greensens",
+	"type": 3,
+	"vendor": "PiTo",
+	"aliases": ["GreensensAPI"],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "GS"
+}
