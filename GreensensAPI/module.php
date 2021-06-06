@@ -8,7 +8,7 @@
  * 
  * Version: 1.0
  *************************************************************************** */
-require_once (__dir__.'/../libs/traits.php');
+require_once(__dir__.'/../libs/traits.php');
 
 class MyGreensens extends IPSModule {
 
