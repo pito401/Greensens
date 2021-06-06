@@ -1,1 +1,13 @@
-
+{
+	"id": "{6FF24399-8276-6B64-43B8-2A5CE6422A41}",
+	"author": "PiTo",
+	"name": "Greensens",
+	"url": "",
+	"compatibility": {
+    "version": "5.0",
+    "date": 1491343200
+	},
+	"version": "1.0",
+	"build": 6062021,
+	"date": 06.06.2021
+}
