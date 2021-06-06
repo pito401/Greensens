@@ -1,4 +1,4 @@
-#  IP-Symcon Modul // Greensens
+#  IP-Symcon Modul / Greensens
 
 #  Dokumentation
 _Das Modul liest die Daten der Greensens Pflanzen Sensoren aus. 
